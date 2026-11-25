@@ -1,6 +1,6 @@
 [project]
 name = "py-symlink"
-version = "0.1.1"
+version = "0.1.2"
 description = "Follows a symlink chain and reports its target status or failure reason."
 requires-python = ">=3.10"
 dependencies = []
